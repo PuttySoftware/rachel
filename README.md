@@ -1,4 +1,5 @@
 # This is a meta-repo for the RACHEL (Randomly Advance Character Hallmarks Each Level) project.
+# It has no code or resources - just this file - so it has no license either, as one is not necessary.
 
 Components:
 * [Atomic](https://github.com/wrldwzrd89/rachel-atomic): Common Core
